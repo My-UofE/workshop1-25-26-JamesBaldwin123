@@ -2,7 +2,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22255431)
 # ECM1410 Workshop 1
 
-An ascii-art image of a snowman
+This is a GitHub classroom assignment containing template code for the workshop
 
 ```
      _=====_
@@ -15,7 +15,7 @@ An ascii-art image of a snowman
 -----------------
 ```
 
-Figure 1: An ascii-art image of a ????
+Figure 1: An ascii-art image of a snowman
 
 
 
